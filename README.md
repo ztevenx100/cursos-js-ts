@@ -3,5 +3,6 @@ Repositorio donde se guardan códigos realizados para los cursos en que se utili
 
 ## Cursos
 
+- Platzi
 
 ## referencias
