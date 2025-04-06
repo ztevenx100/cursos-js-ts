@@ -1,8 +1,19 @@
-# Cursos en JavaScript y TypeScript
-Repositorio donde se guardan códigos realizados para los cursos en que se utilice lenguaje JavaScript y TypeScript.
+# 📚 Cursos en JavaScript y TypeScript
 
-## Cursos
+Este repositorio contiene ejercicios, proyectos y ejemplos desarrollados durante el aprendizaje de cursos relacionados con **JavaScript** y **TypeScript**. La idea es centralizar y documentar el progreso en ambos lenguajes.
 
-- Platzi
+---
+
+## 🚀 Cursos
+
+A continuación se listan los cursos cuyas prácticas están organizadas dentro del repositorio:
+
+### 📘 Platzi
+
+- [ ] Curso Básico de JavaScript  
+- [ ] Curso Práctico de JavaScript  
+- [ ] Curso de ECMAScript 6+  
+- [ ] Curso de TypeScript  
+- [ ] Curso Profesional de JavaScript  
 
 ## referencias
