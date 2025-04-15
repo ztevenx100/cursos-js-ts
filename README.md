@@ -5,15 +5,6 @@ Este repositorio contiene ejercicios, proyectos y ejemplos desarrollados durante
 ---
 
 ## 🚀 Cursos
-
-A continuación se listan los cursos cuyas prácticas están organizadas dentro del repositorio:
-
-### 📘 Platzi
-
-- [ ] Curso Básico de JavaScript  
-- [ ] Curso Práctico de JavaScript  
-- [ ] Curso de ECMAScript 6+  
-- [ ] Curso de TypeScript  
-- [ ] Curso Profesional de JavaScript  
+- 📘 Platzi
 
 ## referencias
