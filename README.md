@@ -5,6 +5,6 @@ Este repositorio contiene ejercicios, proyectos y ejemplos desarrollados durante
 ---
 
 ## 🚀 Cursos
-- 📘 Platzi
+- 📘 Platzi: serie-design-patterns
 
 ## referencias
